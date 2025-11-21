@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'city.dart';
+import '../city.dart';
 
 class Geocoding {
   static const String baseUrl =
